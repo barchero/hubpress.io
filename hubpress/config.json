@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "barchero",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"barchero","repositoryName":"hubpress.io","branch":"gh-pages"},"site":{"title":"Barchero Blog","postsPerPage":"5","url":"http://barchero.github.io/hubpress.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://barchero.github.io/hubpress.io/themes/Casper"}}
