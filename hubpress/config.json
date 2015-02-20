@@ -1,7 +1,7 @@
 {
   "meta": {
-    "username": "put your username here",
-    "repositoryName": "put your repository name here",
+    "username": "barchero",
+    "repositoryName": "http://barchero.github.io/hubpress.io",
     "branch": "gh-pages"
   },
   "theme": {
